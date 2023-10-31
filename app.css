@@ -1,0 +1,158 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&display=swap'); */
+/* @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&family=Roboto+Slab&display=swap'); */
+
+/* body{
+    font-family:;
+} */
+.main{
+    background-color: #ff6b81;
+}
+.navonly{
+    background-color: #ff6b81;
+}
+.row{
+    /* width: 100%; */
+    --bs-gutter-x: 0 !important;
+}
+.business{
+    margin-top: 25%;
+    margin-left: 17%;
+    /* font-family: 'Oswald', sans-serif; */
+}
+
+.features{
+    text-align: center;
+    /* font-family: 'Roboto Slab', serif; */
+}
+/* .navbar-toggler{
+    color: white;
+} */
+.icons{
+    font-size: 40px;
+}
+.cards{
+    margin-left: 30%;
+}
+.secondrow{
+background-color: #F1F1F1;
+}
+.icon2{
+    font-size: 60px;
+}
+.Trusted{
+    background-color: #ff6b81;
+}
+.Planets{
+    text-align: center;
+    margin-top: 10px;
+}
+.Pricing{
+    text-align: center;
+}
+.Freelancer{
+    box-shadow: 2px 2px 2px 2px gray;
+}
+.team{
+    margin-top: 70px;
+    text-align: center;
+}
+.Aryo{
+    text-align: center;
+    background-color: #F1F1F1;
+}
+.install{
+    text-align: center;
+    background-color: #ff6b81;
+}
+.Faq{
+    text-align: center;
+}
+.container{
+    width: 30%;
+    text-align: left;
+    font-size: 20px;
+}
+.dolor{
+    width: 84.6%;
+    background-color: #F1F1F1;
+    margin-left: 7.7%;
+}
+.accordion{
+    width: 84.6%;
+    margin-left: 8%; 
+}
+.news{
+    text-align: center;
+}
+.blogs{
+    background-color: #F1F1F1;
+}
+.last{
+background-color: #081828;
+}
+.facebook{
+    font-size: 18px;
+}
+.email{
+    background-color: none;
+}
+.Newsletter{
+display: flex;
+justify-content: space-around;
+border: 1px solid white;
+}
+.box{
+    border: 1px solid white;
+}
+.dropdown{
+    font-size: 36px;
+    margin-left: 98%;
+}
+@media only screen and (max-width: 600px) {
+    .beneath{
+        margin-right: 60%;
+      }
+      .Aryo{
+        font-size: x-small;
+      }
+      .photo{
+        width: 100px;
+      }
+      .Faq{
+        font-size: x-small;
+      }
+      .smith{
+        text-align: center;
+      }
+      .box{
+        font-size: small;
+      }
+  }
+  .title{
+    margin-left: 24%;
+  }
+  .beneath{
+    margin-left: 16%;
+  }
+  .explain{
+    margin-left: 8%;
+  }
+  .drop{
+    padding: 8px;
+    font-size: 18px;
+    background-color: #ff6b81;
+  }
+  .message{
+    font-size: 30px;
+  }
+  .droplast{
+    padding: 8px;
+    margin-left: 85%;
+    font-size: 18px;
+    background-color: #ff6b81;
+  }
+  span.navbar-toggler-icon {
+color: #fff; 
+
+ }
+ 
